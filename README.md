@@ -1,4 +1,4 @@
-<h1>Recycler View 1</h1>
+<h1>Recycler View 2</h1>
 
 <h3>Data Diri</h3>
 Nama : Dini Nikmatul Hasanah <br>
